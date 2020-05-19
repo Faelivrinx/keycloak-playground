@@ -6,6 +6,7 @@ Project exists for testing purposes.
 other soon...
 
 ## TODO
+- [ ] Keycloak metrics
 - [ ] Keycloak from Docker
 - [ ] Integrate applications with Keycloak
 - [ ] Communicate applications with each other
