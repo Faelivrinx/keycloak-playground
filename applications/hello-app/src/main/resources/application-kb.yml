@@ -1,11 +1,12 @@
 server:
-  port: 9090
+  port: 8080
 
 logging:
   level:
-    com.mypieceofcode.helloapp: INFO
+    root: INFO
     org.springframework.web: INFO
     org.springframework.security: INFO
+    org.springframework.boot.autoconfigure: DEBUG
 
 keycloak-client:
   server-url: http://sso.keycloak:8080/auth
@@ -34,5 +35,3 @@ spring:
             user-info-uri: ${keycloak-client.server-url}/realms/${keycloak-client.realm}/protocol/openid-connect/userinfo
             jwk-set-uri: ${keycloak-client.server-url}/realms/${keycloak-client.realm}/protocol/openid-connect/certs
             user-name-attribute: preferred_username
-    filter:
-      order: 100

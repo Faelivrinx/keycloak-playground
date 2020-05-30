@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2d016a1-39d0-44dc-a1c3-04cabe8de468" name="Default Changelist" comment="Basic security with Spring Boot with Keycloak">
+      <change afterPath="$PROJECT_DIR$/applications/hello-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applications/hello-app/src/main/resources/application-kb.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cRukHCWkzXgQSixU5FNjFR4zrE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/applications/hello-app/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/applications/hello-app/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mypieceofcode.helloapp.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HelloAppApplication">
+    <configuration name="HelloAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mypieceofcode.helloapp.HelloAppApplication" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="keycloak/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="keycloak/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.keycloak/Dockerfile" />
+      <item itemvalue="Spring Boot.HelloAppApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.keycloak/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d016a1-39d0-44dc-a1c3-04cabe8de468" name="Default Changelist" comment="" />
+      <created>1590503867264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590503867264</updated>
+      <workItem from="1590503868423" duration="10951000" />
+      <workItem from="1590605853955" duration="3007000" />
+      <workItem from="1590673515149" duration="66000" />
+      <workItem from="1590776962425" duration="1218000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic security with Spring Boot with Keycloak">
+      <created>1590606572231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590606572231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic security with Spring Boot with Keycloak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic security with Spring Boot with Keycloak" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="114" width="813" height="822" key="#HelloAppApplication" timestamp="1590778361417">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="548" y="114" width="813" height="822" key="#HelloAppApplication/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590778361417" />
+    <state x="379" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590512983892">
+      <screen x="22" y="27" width="1898" height="1053" />
+    </state>
+    <state x="379" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590512983892" />
+    <state x="418" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590505226056" />
+    <state x="768" y="229" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1590513578397">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="768" y="229" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590513578397" />
+    <state x="692" y="313" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590505223242">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="692" y="313" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590505223242" />
+    <state x="622" y="58" width="666" height="934" key="#keycloak/Dockerfile" timestamp="1590504008995">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="622" y="58" width="666" height="934" key="#keycloak/Dockerfile/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590504008995" />
+    <state x="100" y="63" width="1720" height="917" key="DiffContextDialog" timestamp="1590606971616">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="100" y="63" width="1720" height="917" key="DiffContextDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590606971616" />
+    <state x="738" y="214" width="424" height="628" key="FileChooserDialogImpl" timestamp="1590673577419">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="738" y="214" width="424" height="628" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590673577419" />
+    <state width="1874" height="444" key="GridCell.Tab.0.bottom" timestamp="1590608860400">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.0.bottom/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513158732" />
+    <state width="1874" height="444" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590608860400" />
+    <state width="1874" height="444" key="GridCell.Tab.0.center" timestamp="1590608860400">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.0.center/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513158732" />
+    <state width="1874" height="444" key="GridCell.Tab.0.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590608860400" />
+    <state width="1874" height="444" key="GridCell.Tab.0.left" timestamp="1590608860400">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.0.left/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513158732" />
+    <state width="1874" height="444" key="GridCell.Tab.0.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590608860400" />
+    <state width="1874" height="444" key="GridCell.Tab.0.right" timestamp="1590608860400">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.0.right/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513158732" />
+    <state width="1874" height="444" key="GridCell.Tab.0.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590608860400" />
+    <state width="1874" height="375" key="GridCell.Tab.1.bottom" timestamp="1590518464821">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.bottom/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513137374" />
+    <state width="1874" height="375" key="GridCell.Tab.1.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590518464821" />
+    <state width="1874" height="375" key="GridCell.Tab.1.center" timestamp="1590518464821">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.center/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513137374" />
+    <state width="1874" height="375" key="GridCell.Tab.1.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590518464821" />
+    <state width="1874" height="375" key="GridCell.Tab.1.left" timestamp="1590518464821">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.left/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513137374" />
+    <state width="1874" height="375" key="GridCell.Tab.1.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590518464821" />
+    <state width="1874" height="375" key="GridCell.Tab.1.right" timestamp="1590518464821">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.1.right/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513137374" />
+    <state width="1874" height="375" key="GridCell.Tab.1.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590518464821" />
+    <state width="1874" height="375" key="GridCell.Tab.2.bottom" timestamp="1590513048786">
+      <screen x="22" y="27" width="1898" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.2.bottom/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513048786" />
+    <state width="1874" height="375" key="GridCell.Tab.2.center" timestamp="1590513048786">
+      <screen x="22" y="27" width="1898" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.2.center/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513048786" />
+    <state width="1874" height="375" key="GridCell.Tab.2.left" timestamp="1590513048786">
+      <screen x="22" y="27" width="1898" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.2.left/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513048786" />
+    <state width="1874" height="375" key="GridCell.Tab.2.right" timestamp="1590513048786">
+      <screen x="22" y="27" width="1898" height="1053" />
+    </state>
+    <state width="1874" height="375" key="GridCell.Tab.2.right/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590513048786" />
+    <state x="540" y="271" width="819" height="514" key="NewModule_or_Project.wizard" timestamp="1590505259956">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="540" y="271" width="819" height="514" key="NewModule_or_Project.wizard/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590505259956" />
+    <state x="443" y="99" width="1024" height="852" key="SettingsEditor" timestamp="1590778396250">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="405" y="99" key="SettingsEditor/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590512969502" />
+    <state x="443" y="99" width="1024" height="852" key="SettingsEditor/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590778396250" />
+    <state x="555" y="257" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590606585184">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="555" y="257" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590606585184" />
+    <state x="670" y="341" width="569" height="367" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590513527973">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="670" y="341" width="569" height="367" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590513527973" />
+    <state x="665" y="266" width="1069" height="522" key="find.popup" timestamp="1590606325599">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="632" y="266" width="1097" height="522" key="find.popup/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590512776852" />
+    <state x="665" y="266" width="1069" height="522" key="find.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590606325599" />
+    <state x="264" y="229" width="1372" height="599" key="new project wizard" timestamp="1590505238864">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="264" y="229" width="1372" height="599" key="new project wizard/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590505238864" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1590778347771">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="625" y="259" width="690" height="678" key="search.everywhere.popup/22.27.1898.1053/1920.0.1920.1080@22.27.1898.1053" timestamp="1590512883382" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1590778347771" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2ClientPropertiesRegistrationAdapter.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
