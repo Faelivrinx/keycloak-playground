@@ -1,14 +1,14 @@
 server:
-  port: 9090
+  port: 8080
 
 logging:
   level:
-    com.mypieceofcode.helloapp: INFO
-    org.springframework.web: INFO
-    org.springframework.security: INFO
+    org.springframework.security: DEBUG
+    org.springframework.security.oauth2: DEBUG
+    org.springframework.security.jwt: DEBUG
 
 keycloak-client:
-  server-url: http://sso.keycloak:8080/auth
+  server-url: http://sso.org/auth
   realm: demo
 
 spring:

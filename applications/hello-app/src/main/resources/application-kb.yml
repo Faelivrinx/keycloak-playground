@@ -3,10 +3,9 @@ server:
 
 logging:
   level:
-    root: INFO
-    org.springframework.web: INFO
-    org.springframework.security: INFO
-    org.springframework.boot.autoconfigure: DEBUG
+    org.springframework.security: DEBUG
+    org.springframework.security.oauth2: DEBUG
+    org.springframework.security.jwt: DEBUG
 
 keycloak-client:
   server-url: http://sso.keycloak:8080/auth

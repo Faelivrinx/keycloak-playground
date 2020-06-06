@@ -94,7 +94,6 @@ public class MainLoggingFilter extends OncePerRequestFilter {
 
     private void getHandlerMethod(HttpServletRequest request) throws Exception {
         RequestMappingHandlerMapping mappings1 = (RequestMappingHandlerMapping) context.getBean("requestMappingHandlerMapping");
-        Map<RequestMappingInfo, HandlerMethod> handlerMethods = mappings1.getHandlerMethods();
         HandlerExecutionChain handler = mappings1.getHandler(request);
         if (Objects.nonNull(handler)) {
             HandlerMethod handler1 = (HandlerMethod) handler.getHandler();
