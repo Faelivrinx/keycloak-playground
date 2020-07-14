@@ -32,3 +32,13 @@ spec:
               value: "public"
             - name: DB_PASSWORD
               value: "key_password"
+            - name: INFLUXDB_HOST
+              value: "192.168.99.1"
+            - name: INFLUXDB_PORT
+              value: "8086"
+            - name: INFLUXDB_USER
+              value: "root"
+            - name: INFLUXDB_PWD
+              value: "root"
+            - name: INFLUXDB_DB
+              value: "keycloak"
